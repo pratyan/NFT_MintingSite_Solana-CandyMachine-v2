@@ -1,0 +1,16 @@
+{
+	"program": {
+		"uuid": "8mx4y1",
+		"candyMachine": "8mx4y1BeYZA2nL523Ur12vZ59RTkajigryvKaUwFPiVS"
+	},
+	"items": {
+		"0": {
+			"link": "https://arweave.net/95vNas-c1-LEcDKOmxxyXeQ6IXrBpHYqbHBWOAhMuwo",
+			"name": "Ape #1",
+			"onChain": true,
+			"verifyRun": false
+		}
+	},
+	"env": "devnet",
+	"cacheName": "temp"
+}

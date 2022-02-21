@@ -1,0 +1,30 @@
+{
+	"name": "Ape #1",
+	"symbol": "AAA",
+	"description": "CliffordGlow",
+	"seller_fee_basic_points": 500,
+	"image": "0.png",
+	"extrenal_url": "https://hh.io",
+	"attributes": [{
+		"trait_type": "Attractor",
+		"value": "clifford"
+	}, {
+		"trait_type": "Color",
+		"value": "Glow"
+	}],
+	"collection": {
+		"name": "Stractors",
+		"family": "stractors"
+	},
+	"properties": {
+		"files": [{
+			"uri": "0.png",
+			"type": "image/png"
+		}],
+		"category": "image",
+		"creators": [{
+			"address": "5sh7NypJqc1Enb1Uk8UWngreDZaaJsFXRtM4RLmmPKx2",
+			"share": 100
+		}]
+	}
+}
